@@ -8,6 +8,8 @@ The tools we will be using in this project are:
 6) Azure Key Vault
 7) Power BI
 
+Note : Also used Scheduled Trigger (after 24 hr) to update the pipeline and update Dashboard
+
 Step by Step approach for the project
 
 1. In the data engineering project described, an on-premise MYSQL database is connected to Azure Data Factory using a self-hosted integration runtime(SHIR). This integration runtime is installed on the same machine where the MYSQL database is hosted, allowing Azure Data Factory to securely connect to the on-premise database.
