@@ -14,3 +14,5 @@ Step by Step approach for the project
 
 
 <img width="893" alt="Screenshot 2024-05-06 172812" src="https://github.com/Nikhil1998-Mogre/End-to-End-Relatime-Data-Engineering-project/assets/109106842/12886f64-8a2a-46cd-80a0-0518c70b7ee4">
+
+2. 
