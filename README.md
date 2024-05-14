@@ -1,9 +1,9 @@
 The tools we will be using in this project are:
 
-Azure Data Factory
-Azure Synapse Analytics
-Azure Databricks
-Azure Data Lake
-Azure Active Directory
-Azure Key Vault
-Power BI
+1) Azure Data Factory
+2) Azure Synapse Analytics
+3) Azure Databricks
+4) Azure Data Lake
+5) Azure Active Directory
+6) Azure Key Vault
+7) Power BI
