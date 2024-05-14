@@ -25,5 +25,8 @@ Step by Step approach for the project
 
 5. Once the data has been loaded to the gold layer, we will then use Azure Synapse Analytics to create a similar data model as the on-premise SQL database. This will allow us to query the data in Azure Synapse Analytics just like we would in the on-premise SQL database.
 
-Finally, we will be using Power BI to create reports and visualizations on the data that has been stored in Azure Synapse Analytics. Power BI is a powerful tool that can be used to create different kinds of reports, charts, and visualizations on the data.
+6. Finally, we will be using Power BI to create reports and visualizations on the data that has been stored in Azure Synapse Analytics. Power BI is a powerful tool that can be used to create    
+   different kinds of reports, charts, and visualizations on the data.
+
+<img width="640" alt="dashboard" src="https://github.com/Nikhil1998-Mogre/End-to-End-Relatime-Data-Engineering-project/assets/109106842/e74b4c49-cab8-45c5-afe6-61d373c9f2e8">
 
